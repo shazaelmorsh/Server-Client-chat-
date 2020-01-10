@@ -1,3 +1,3 @@
-Server client application 
+Server/client application 
 
-chat applications using sockets 
+chat app between multiple clients and a server using TCP socket in java
